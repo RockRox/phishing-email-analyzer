@@ -1,0 +1,19 @@
+Received: from mail.example.com (mail.example.com [198.51.100.10]) by mx.example.org with ESMTPS; Tue, 06 Oct 2026 10:00:05 +0000
+Authentication-Results: mx.example.org; spf=pass smtp.mailfrom=example.com; dkim=pass header.d=example.com; dmarc=pass header.from=example.com
+Return-Path: <alice@example.com>
+From: Alice Johnson <alice@example.com>
+To: bob@example.org
+Subject: Notes from Tuesday's project meeting
+Date: Tue, 06 Oct 2026 10:00:00 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Hi Bob,
+
+Thanks for joining the project sync today. Notes are in the shared drive:
+https://example.com/docs/project-notes
+
+Next meeting is Thursday at 3pm.
+
+Best,
+Alice
