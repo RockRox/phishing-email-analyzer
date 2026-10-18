@@ -1,6 +1,6 @@
 # Phishing Email Analyzer
 
-[!\[CI](https://github.com/RockRox/phishing-email-analyzer/actions/workflows/ci.yml/badge.svg)](https://github.com/<your-username>/phishing-email-analyzer/actions)
+[!\[CI](https://github.com/RockRox/phishing-email-analyzer/actions/workflows/ci.yml/badge.svg)](https://github.com/RockRox/phishing-email-analyzer/actions)
 !\[Python](https://img.shields.io/badge/python-3.9%2B-blue)
 !\[License](https://img.shields.io/badge/license-MIT-green)
 
@@ -26,7 +26,7 @@ and a report (text, JSON or HTML).
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/phishing-email-analyzer.git
+git clone https://github.com/RockRox/phishing-email-analyzer.git
 cd phishing-email-analyzer
 
 # No install needed:
@@ -135,8 +135,4 @@ server - the tool does not re-run DNS lookups or cryptographic DKIM verification
 
 For defensive analysis of emails you are authorised to examine. Do not open links or attachments from
 suspicious messages outside an isolated environment.
-
-## License
-
-MIT - see [LICENSE](LICENSE).
 
